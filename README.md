@@ -18,7 +18,7 @@ In the report, dataset information is briefly described in the first section, fo
   
 ## Decision Tree
 This is the second coursework of Machine Learning COMP3009 on the topic of Decision Tree (DT). We applied 
-the standard ID3 algorithm on Iris dataset[1] and Beijing PM2.5 dataset[2]to solve classification and 
+the standard ID3 algorithm on Iris dataset and Beijing PM2.5 dataset to solve classification and 
 regression problems respectively. For the evaluation part, we utilised 10-fold cross validation to evaluate 
 our tree model to calculate average Root Mean Square Error (RMSE) for the regression problem and F1-Score 
 for the classification problem. 
@@ -29,7 +29,7 @@ configurations and evaluation, are demonstrated. Lastly, answers to the question
     
 ## Support Vector Machine
 This is the third coursework of Machine Learning COMP3009 on the topic of Support Vector Machine (SVM). 
-We trained, evaluated, optimised SVM models on Iris dataset[1] and Beijing PM2.5 dataset[2]. Besides, 
+We trained, evaluated, optimised SVM models on Iris dataset and Beijing PM2.5 dataset. Besides, 
 the performances of Artificial Neural Network (ANN), Decision Tree (DT) and SVMs with 3 kernel functions 
 were compared based on a statistical approach. 
 
